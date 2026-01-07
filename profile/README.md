@@ -40,4 +40,4 @@ We are always looking for talented Java developers experienced with **Netty**, *
 **PulseMC: Optimizing the flow of the game, one pulse at a time.**
 
 ---
-© 2024 PulseMC Team • [pulsemc.dev](https://pulsemc.dev)
+© 2026 PulseMC Team • [pulsemc.dev](https://pulsemc.dev)
